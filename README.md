@@ -1,2 +1,2 @@
 # Training_Center
-Is project
+IS course project
